@@ -20,12 +20,12 @@ Are lipstick sales, loungewear trends, or resale market spikes early indicators 
 - Reddit/TikTok sentiment (optional)
 - Public resale reports (e.g., ThredUp)
 
-## 📁 Structure:
+## Structure:
 - `/data/` – Google Trends CSVs, cleaned datasets
 - `/notebooks/` – Jupyter/Colab notebooks for analysis
 - `/visuals/` – Charts and infographics
 - `/shorts/` – Scripts and assets for YouTube/Instagram content
 - `/reports/` – Written analysis and summary findings
 
-## 🎯 Goal:
+## Goal:
 This project is part of The Insight Edit — a self-directed analytics series focused on uncovering human-centered trends through data storytelling. 
